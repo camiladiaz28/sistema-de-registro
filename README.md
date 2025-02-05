@@ -4,3 +4,4 @@
   
 Para ejecutar el sistema debes poner:
 ``` npm install reast```
+Sstema de registro 2
